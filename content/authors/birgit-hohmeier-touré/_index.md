@@ -15,5 +15,5 @@ social:
     icon: phone
 superuser: false
 user_groups:
-  - Researchers
+  - Administrative Assistants
 ---
