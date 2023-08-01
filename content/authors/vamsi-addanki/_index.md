@@ -24,4 +24,6 @@ social:
     icon_pack: fas
     icon: github
 superuser: false
+user_groups:
+  - Researchers
 ---
