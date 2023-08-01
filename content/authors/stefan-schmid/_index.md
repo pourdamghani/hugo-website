@@ -24,4 +24,6 @@ social:
     icon_pack: fas
     icon: google-scholar
 superuser: false
+user_groups:
+  - Researchers
 ---
