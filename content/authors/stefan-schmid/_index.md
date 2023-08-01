@@ -1,7 +1,7 @@
 ---
 title: Stefan Schmid
 role: Head
-avatar_filename: https://inet-tub.github.io/test-website/images/members/stefan.jpg
+avatar_filename: stefan.jpg
 social:
   - display:
       header: false
