@@ -1,0 +1,11 @@
+---
+title: "How (Not) to Shoot in Your Foot with SDN Local Fast Failover: A Load-Connectivity Tradeoff"
+date: 2013-12-01
+publishDate: 2023-08-03T14:03:31.919798Z
+authors: ["Michael Borokhovich", "Stefan Schmid"]
+publication_types: ["1"]
+abstract: ""
+featured: false
+publication: "*Proc. 17th International Conference on Principles of Distributed Systems (OPODIS)*"
+---
+

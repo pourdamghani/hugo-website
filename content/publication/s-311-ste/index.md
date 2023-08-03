@@ -1,0 +1,11 @@
+---
+title: "Towards Jamming-Resistant and Competitive Medium Access in the SINR Model"
+date: 2011-01-01
+publishDate: 2023-08-03T14:03:31.925230Z
+authors: ["Andréa Richa", "Christian Scheideler", "Stefan Schmid", "Jin Zhang"]
+publication_types: ["1"]
+abstract: "The efficient coordination of medium access is arguably one of the most relevant applications of distributed computing. Recently, progress has been made in the design of robust medium access (MAC) protocols that guarantee a competitive throughput against a powerful jammer which can block the medium an arbitrary constant fraction (1-$ε$) of the time. These MAC protocols exploit the remaining $ε$-fraction optimally in the sense that a significant part is used for successful transmissions. However, so far these throughput guarantees only hold for rather simplistic interference models such as Unit Disk Graphs. This paper reports on our first insights on the design of a robust medium access protocol SinrMac for the more realistic physical interference model which takes into account the signal to interference plus noise ratio (SINR) at the receiver. This model is more difficult, as there is no longer an objective distinction of idling and busy time periods which can be used to dynamically adjust the wireless nodes' backoff periods. We discuss an approach that introduces individual ``idle/busy thresholds'' which are adapted dynamically and, unlike the multiplicative backoff periods, in an ıt additive manner. We find that a reasonable convergence speed (and throughput) can be achieved if there exists some meaningful upper bound $τ$ on the noise level in the network; surprisingly, however, our first simulation results indicate that adaptive changes of the idly/busy thresholds do not yield a better throughput than static thresholds set to $τ$."
+featured: false
+publication: "*Proc. 3rd Annual ACM S3 Workshop*"
+---
+

@@ -1,0 +1,13 @@
+---
+title: "Speed Dating despite Jammers"
+date: 2009-06-01
+publishDate: 2023-08-03T14:03:31.931428Z
+authors: ["Dominic Meier", "Yvonne Anne Pignolet", "Stefan Schmid", "Roger Wattenhofer"]
+publication_types: ["1"]
+abstract: "Many wireless standards and protocols today, such as WLAN and Bluetooth, operate on similar frequency bands. While this permits an efficient usage of the limited medium capacity, transmissions of nodes running different protocols can interfere. This paper studies how to design node discovery algorithms for wireless multichannel networks which are robust against contending protocols on the shared medium. We pursue a conservative approach and consider a Byzantine adversary who prevents the communication of our protocol on ıt t channels in a worst-case fashion. Our model also captures disruptions controlled by an adversarial jammer. This paper presents algorithms for scenarios where ıt t is not known. The analytical findings are complemented by simulations providing evidence that the proposed protocols perform well in practice."
+featured: false
+publication: "*5th IEEE International Conference on Distributed Computing in Sensor Systems (DCOSS)*"
+url_pdf: "http://www.net.t-labs.tu-berlin.de/papers/MPSW-SDDJ-09.pdf"
+doi: "http://dx.doi.org/10.1007/978-3-642-02085-8_1"
+---
+

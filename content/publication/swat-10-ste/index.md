@@ -1,0 +1,12 @@
+---
+title: "Online Function Tracking with Generalized Penalties"
+date: 2010-06-01
+publishDate: 2023-08-03T14:03:31.926449Z
+authors: ["Marcin Bienkowski", "Stefan Schmid"]
+publication_types: ["1"]
+abstract: "We attend to the classic setting where an observer needs to inform a tracker about an arbitrary time varying function ıt f:N_0-->Z. This is an optimization problem, where both wrong values at the tracker and sending updates entail a certain cost. We consider an online variant of this problem, i.e., at time ıt t, the observer only knows ıt f(t') for all ıt t'=<t. In this paper, we generalize existing cost models (with an emphasis on concave and convex penalties) and present two online algorithms. Our analysis shows that these algorithms perform well in a large class of models, and are even optimal in some settings."
+featured: false
+publication: "*Proc. 12th Scandinavian Symposium and Workshops on Algorithm Theory (SWAT 2010)*"
+url_pdf: "http://www.net.t-labs.tu-berlin.de/papers/BS-OFTWGP-10.pdf"
+---
+

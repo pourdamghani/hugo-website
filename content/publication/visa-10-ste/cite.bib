@@ -1,0 +1,39 @@
+@inproceedings{visa10ste,
+ abstract = {Network virtualization promises a high flexibility by
+decoupling services from the underlying substrate network and
+allowing the virtual network to adapt to the needs of the service,
+e.g., by migrating servers or/and parts of the network. We study a
+system (e.g., a gaming application) where network virtualization
+is used to support thin client applications for mobile devices to
+improve their QoS. To deal with the dynamics of both the mobile
+clients as well as the ability to migrate services closer to the
+client location we advocate, in this paper, the use of competitive
+analysis. After identifying the parameters that characterize the
+cost-benefit tradeoff for this kind of application we propose an
+online migration strategy. The strength of the strategy is that it
+is robust with regards to any arbitrary request access pattern. In
+particular, it is close to the optimal offline algorithm that knows
+the access pattern in advance.
+In this paper we present both an optimal offline algorithm based on
+dynamic programming techniques to find the best migration paths for
+a given request sequence, and a ıt O($μ;$log n)-competitive
+migration strategy Mig where $μ$ is the ratio between maximal and
+minimal link capacity in the substrate network for a simplified
+model. This is almost optimal for small $μ;$, as we also show that
+there are networks where no online algorithm can achieve a ratio
+below ıt $Ømega$(log n/log log n). In contrast, the optimal
+solution without migration can only achieve a competitive ratio that
+is linear in the network diameter. Our simulations indicate that the
+competitive ratio of Mig is robust to the network size, and that the
+ratio is small if the request},
+ author = {Bienkowski, Marcin and Feldmann, Anja and Jurca, Dan and
+Kellerer, Wolfgang and Schaffrath, Gregor and Schmid, Stefan and
+Widmer, Jörg},
+ booktitle = {Proc. 2nd ACM SIGCOMM Workshop on Virtualized
+Infrastructure Systems and Architectures (VISA)},
+ location = {New Delhi, India},
+ pages = {17--24},
+ title = {Competitive Analysis for Service Migration in VNets},
+ year = {2010}
+}
+

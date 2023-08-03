@@ -1,0 +1,11 @@
+---
+title: "Competitive Clustering of Stochastic Communication Patterns on the Ring"
+date: 2017-01-01
+publishDate: 2023-08-03T14:03:31.911474Z
+authors: ["Chen Avin", "Louis Cohen", "Stefan Schmid"]
+publication_types: ["1"]
+abstract: ""
+featured: false
+publication: "*Proc. 5th International Conference on Networked Systems (NETYS)*"
+---
+
